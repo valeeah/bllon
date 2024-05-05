@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(30deg,#9ac7fa,#42a9fd);
+    text-align: center;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(9, 86, 158);
+    
+}
+h3{
+    font-size: 15pxs;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #acd5f7;
+}
